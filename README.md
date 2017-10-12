@@ -1,2 +1,4 @@
-# .vimrc
+# Configs
 vim config
+tmux config
+...
