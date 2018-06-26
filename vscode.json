@@ -1,0 +1,16 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 14,
+    "editor.wordWrap": "on",
+    "files.autoSave": "onFocusChange",
+    "window.zoomLevel": 0,
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript"
+    },
+    "emmet.includeLanguages": {
+        "wxml": "html"
+    },
+    "minapp-vscode.disableAutoConfig": true,
+}
